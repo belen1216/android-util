@@ -7,5 +7,5 @@ repositories {
 ```
 
 ``` gradle
-compile 'com.belen1216:android-util:1.0.1'
+compile 'com.belen1216:android-util:1.0.2'
 ```
