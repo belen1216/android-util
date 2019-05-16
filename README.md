@@ -9,8 +9,8 @@ repositories {
 ```
 
 ``` gradle
-compile 'com.belen1216:android-util:1.0.2'
+compile 'com.belen1216:android-util:1.0.3'
 ```
 ## 2.jar包接入
 下载aar解压得到jar包  
-[https://dl.bintray.com/belen1216/maven/com/belen1216/android-util/1.0.2/android-util-1.0.2.aar](https://dl.bintray.com/belen1216/maven/com/belen1216/android-util/1.0.2/android-util-1.0.2.aar)
+[android-util-1.0.3.aar](https://dl.bintray.com/belen1216/maven/com/belen1216/android-util/1.0.3/android-util-1.0.3.aar)
